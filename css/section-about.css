@@ -1,0 +1,28 @@
+.section_about{
+    background: linear-gradient(to top, #4b4d4d, #302f2f);
+    color: #fff;
+    position: relative;
+}
+
+.section-about__img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.section-about__content {
+    width: 50%;
+    padding-left: 80px;
+}
+
+
+/*img {
+    max-width: 100%;
+    height: auto;
+    padding-right: 50px;
+    width: 600px;
+    height: 400px;
+}*/
