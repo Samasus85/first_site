@@ -1,0 +1,524 @@
+.pizza__row_1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 234;
+  }
+  .pizza3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 233;
+  }
+  ._880_₽ {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    position: absolute;
+    left: 1217.938px;
+    top: 1688.3px;
+    z-index: 232;
+  }
+  ._3 {
+    background-image: url("3.png");
+    position: absolute;
+    left: 1224px;
+    top: 1238px;
+    width: 351px;
+    height: 214px;
+    z-index: 231;
+  }
+  .pizza__title {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1216.938px;
+    top: 1478.324px;
+    z-index: 230;
+  }
+  .pizza__text {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: rgb(158, 158, 158);
+    line-height: 1.375;
+    text-align: left;
+    position: absolute;
+    left: 1217.937px;
+    top: 1535.546px;
+    z-index: 229;
+  }
+  .pizza_size {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 228;
+  }
+  .pizza_size__value {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 227;
+  }
+  ._25см_ {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(230, 230, 230);
+    line-height: 1.2;
+    position: absolute;
+    left: 1506.916px;
+    top: 1617.9px;
+    z-index: 226;
+  }
+  ._35см {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(161, 161, 161);
+    line-height: 1.2;
+    position: absolute;
+    left: 1246.98px;
+    top: 1617.9px;
+    z-index: 225;
+  }
+  ._30см_ {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(230, 230, 230);
+    line-height: 1.2;
+    position: absolute;
+    left: 1378.98px;
+    top: 1617.9px;
+    z-index: 224;
+  }
+  .pizza_size__bg_active {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.08);
+    position: absolute;
+    left: 1219px;
+    top: 1606px;
+    width: 98px;
+    height: 41px;
+    z-index: 223;
+  }
+  .pizza_size__bg {
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    left: 1219px;
+    top: 1606px;
+    width: 360px;
+    height: 41px;
+    z-index: 221;
+  }
+  .pizza__btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 219;
+  }
+  .заказать {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 1437.259px;
+    top: 1691.9px;
+    z-index: 218;
+  }
+  .pizza__btn_bg {
+    background-color: rgb(233, 164, 86);
+    position: absolute;
+    left: 1378px;
+    top: 1677px;
+    width: 201px;
+    height: 48px;
+    z-index: 217;
+  }
+  .pizza2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 214;
+  }
+  ._950_₽ {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    position: absolute;
+    left: 779.938px;
+    top: 1688.3px;
+    z-index: 213;
+  }
+  .Группа_1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 212;
+  }
+  ._2 {
+    background-image: url("2.png");
+    position: absolute;
+    left: 786px;
+    top: 1238px;
+    width: 351px;
+    height: 214px;
+    z-index: 211;
+  }
+  .pizza__title {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 778.937px;
+    top: 1480.3px;
+    z-index: 209;
+  }
+  .pizza__text {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: rgb(158, 158, 158);
+    line-height: 1.375;
+    text-align: left;
+    position: absolute;
+    left: 780.937px;
+    top: 1535.546px;
+    z-index: 208;
+  }
+  .pizza_size {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 207;
+  }
+  .pizza_size__value {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 206;
+  }
+  ._25см_ {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(230, 230, 230);
+    line-height: 1.2;
+    position: absolute;
+    left: 1068.916px;
+    top: 1617.9px;
+    z-index: 205;
+  }
+  ._35см {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(161, 161, 161);
+    line-height: 1.2;
+    position: absolute;
+    left: 808.98px;
+    top: 1617.9px;
+    z-index: 204;
+  }
+  ._30см_ {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(230, 230, 230);
+    line-height: 1.2;
+    position: absolute;
+    left: 940.98px;
+    top: 1617.9px;
+    z-index: 203;
+  }
+  .pizza_size__bg_active {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.08);
+    position: absolute;
+    left: 781px;
+    top: 1606px;
+    width: 98px;
+    height: 41px;
+    z-index: 202;
+  }
+  .pizza_size__bg {
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    left: 781px;
+    top: 1606px;
+    width: 360px;
+    height: 41px;
+    z-index: 200;
+  }
+  .pizza__btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 198;
+  }
+  .заказать {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 999.259px;
+    top: 1691.9px;
+    z-index: 197;
+  }
+  .pizza__btn_bg {
+    background-color: rgb(233, 164, 86);
+    position: absolute;
+    left: 940px;
+    top: 1677px;
+    width: 201px;
+    height: 48px;
+    z-index: 196;
+  }
+  .pizza {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 193;
+  }
+  .separators {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 192;
+  }
+  .Прямоугольник_4_копия_2 {
+    background-color: rgb(220, 220, 220);
+    opacity: 0.239;
+    position: absolute;
+    left: 1180px;
+    top: 2413px;
+    width: 3px;
+    height: 484px;
+    z-index: 191;
+  }
+  .Прямоугольник_4_копия_2 {
+    background-color: rgb(220, 220, 220);
+    opacity: 0.239;
+    position: absolute;
+    left: 741px;
+    top: 2413px;
+    width: 3px;
+    height: 484px;
+    z-index: 190;
+  }
+  .separators {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 188;
+  }
+  .Прямоугольник_4_копия_2 {
+    background-color: rgb(220, 220, 220);
+    opacity: 0.239;
+    position: absolute;
+    left: 1180px;
+    top: 1828px;
+    width: 3px;
+    height: 484px;
+    z-index: 187;
+  }
+  .Прямоугольник_4_копия_2 {
+    background-color: rgb(220, 220, 220);
+    opacity: 0.239;
+    position: absolute;
+    left: 741px;
+    top: 1828px;
+    width: 3px;
+    height: 484px;
+    z-index: 186;
+  }
+  .separators {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 184;
+  }
+  .Прямоугольник_4_копия {
+    background-color: rgb(220, 220, 220);
+    opacity: 0.239;
+    position: absolute;
+    left: 1180px;
+    top: 1241px;
+    width: 3px;
+    height: 484px;
+    z-index: 183;
+  }
+  .Прямоугольник_4 {
+    background-color: rgb(220, 220, 220);
+    opacity: 0.239;
+    position: absolute;
+    left: 741px;
+    top: 1241px;
+    width: 3px;
+    height: 484px;
+    z-index: 182;
+  }
+  ._850_₽ {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    position: absolute;
+    left: 338.938px;
+    top: 1688.3px;
+    z-index: 180;
+  }
+  ._1_png {
+    background-image: url("template (2)-assets/1.png");
+    position: absolute;
+    left: 345px;
+    top: 1238px;
+    width: 351px;
+    height: 214px;
+    z-index: 179;
+  }
+  .pizza__title {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 337.938px;
+    top: 1480.3px;
+    z-index: 178;
+  }
+  .pizza__text {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: rgb(158, 158, 158);
+    line-height: 1.375;
+    text-align: left;
+    position: absolute;
+    left: 338.937px;
+    top: 1535.546px;
+    z-index: 177;
+  }
+  .pizza_size {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 176;
+  }
+  .pizza_size__value {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 175;
+  }
+  ._25см_ {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(230, 230, 230);
+    line-height: 1.2;
+    position: absolute;
+    left: 627.916px;
+    top: 1617.9px;
+    z-index: 174;
+  }
+  ._35см {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(161, 161, 161);
+    line-height: 1.2;
+    position: absolute;
+    left: 367.98px;
+    top: 1617.9px;
+    z-index: 173;
+  }
+  ._30см_ {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(230, 230, 230);
+    line-height: 1.2;
+    position: absolute;
+    left: 499.98px;
+    top: 1617.9px;
+    z-index: 172;
+  }
+  .pizza_size__bg_active {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.08);
+    position: absolute;
+    left: 340px;
+    top: 1606px;
+    width: 98px;
+    height: 41px;
+    z-index: 171;
+  }
+  .pizza_size__bg {
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    left: 340px;
+    top: 1606px;
+    width: 360px;
+    height: 41px;
+    z-index: 169;
+  }
+  .pizza__btn {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 4355px;
+    z-index: 167;
+  }
+  .заказать {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 558.259px;
+    top: 1691.9px;
+    z-index: 166;
+  }
+  .pizza__btn_bg {
+    background-color: rgb(233, 164, 86);
+    position: absolute;
+    left: 499px;
+    top: 1677px;
+    width: 201px;
+    height: 48px;
+    z-index: 165;
+  }
+  
